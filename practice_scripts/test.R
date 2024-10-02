@@ -1,1 +1,6 @@
-print("hello chika")
+name <- "chika asogwa"
+age <- 30
+city <- "Nottingham"
+
+print(name)
+
